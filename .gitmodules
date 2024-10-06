@@ -1,0 +1,6 @@
+[submodule "aci-lub"]
+	path = aci-lub
+	url = https://github.com/AlviDervishaj/ACI.SH.A
+[submodule "albanianslate"]
+	path = albanianslate
+	url = https://github.com/AlviDervishaj/Albanianslate
