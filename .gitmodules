@@ -4,3 +4,6 @@
 [submodule "albanianslate"]
 	path = albanianslate
 	url = https://github.com/AlviDervishaj/Albanianslate
+[submodule "teamsystems"]
+	path = teamsystems
+	url = https://github.com/AlviDervishaj/teamsystems
