@@ -7,3 +7,6 @@
 [submodule "teamsystems"]
 	path = teamsystems
 	url = https://github.com/AlviDervishaj/teamsystems
+[submodule "chess"]
+	path = chess
+	url = https://github.com/AlviDervishaj/chess
